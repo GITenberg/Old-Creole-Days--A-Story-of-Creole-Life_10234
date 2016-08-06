@@ -1,0 +1,32 @@
+_repo: Old-Creole-Days--A-Story-of-Creole-Life_10234
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cable, George Washington
+    alias: Cable, G. W. (George Washington)
+    birthdate: 1844
+    deathdate: 1925
+    gutenberg_agent_id: '3163'
+    url: http://www.gutenberg.org/2009/agents/3163
+    wikipedia: http://en.wikipedia.org/wiki/George_Washington_Cable
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10234'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Louisiana -- Social life and customs -- Fiction'
+- !lcsh 'Creoles -- Fiction'
+- !lcc 'PS'
+- !lcsh 'New Orleans (La.) -- Fiction'
+- !lcsh 'Historical fiction'
+- GITenberg
+tableOfContents: Madame Delphine -- Café des Exilés -- Belles Demoiselles Plantation
+  -- "Posson Jone'" -- Jean-ah Poquelin -- 'Tite Poulette -- 'Sieur George -- Madame
+  Délicieuse.
+title: 'Old Creole Days: A Story of Creole Life'
+url: http://www.gutenberg.org/ebooks/10234
